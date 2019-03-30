@@ -11,8 +11,7 @@ dependencies:
   - partd
   - bokeh
   - dask
-  -scikit-learn
-  -xgboost
-  -lightgbm
-  -catboost
+  - xgboost
+  - lightgbm
+  - catboost
   
