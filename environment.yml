@@ -14,4 +14,12 @@ dependencies:
   - xgboost
   - lightgbm
   - catboost
+  - scikit-learn
+  - scikit-garden
+  - glob2
+  - pip
+  - joblib
+  - numba
+  - numexpr
+  
   
