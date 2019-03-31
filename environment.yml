@@ -1,6 +1,7 @@
 name: example-environment
 channels:
   - conda-forge
+  - anaconda
 dependencies:
   - numpy
   - psutil
@@ -11,3 +12,10 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - glob2
+  - scikit-learn
+  - scikit-garden
+  - numba
+  - numexpr
+  - joblib
+  
